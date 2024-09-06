@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BW1058-Limit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BW1058_Limit_jar</output-path>
+    <root id="archive" name="BW1058-Limit.jar">
+      <element id="module-output" name="BW1058-Limit" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
